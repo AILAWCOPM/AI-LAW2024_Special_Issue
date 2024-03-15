@@ -1,0 +1,13 @@
+Norm 1: Directive 2014/41/EU of the European Parliament and of the Council of 3 April 2014
+Description 1: This directive establishes the European Investigation Order (EIO) for obtaining evidence across EU member states based on mutual recognition and trust. The directive emphasizes the importance of proportionality, adequacy, and necessity in executing investigative acts, ensuring they are necessary and proportionate for acquiring evidence for proceedings. It also highlights the need to fully respect fundamental rights, including the presumption of innocence and the rights of the defense in criminal proceedings.
+
+Norm 2: D.Lgs. 27 June 2017, n. 108
+Description 2: The Italian legislative decree implements Directive 2014/41/EU, outlining the procedure for executing an EIO within Italy. It mandates that an EIO must concern evidence that can be obtained in the issuing state and must be executed according to the laws of the executing state. The decree presumes the respect of fundamental rights and the principle of proportionality unless proven otherwise.
+
+Norm 3: ISO/IEC 27037
+Description 3: This international standard provides guidelines for the identification, collection, acquisition, and preservation of digital evidence. In the case at hand, the acquisition of chat data from the Sky ECC network was reported to comply with this standard, including the generation of a double hash code, ensuring the integrity and reliability of the digital evidence obtained.
+
+Norm 4: Italian Code of Criminal Procedure, Article 94
+Description 4: This article deals with the procedural requirements for acts and documents within the Italian criminal process, including those in foreign languages. It states that the obligation to use the Italian language applies to acts to be performed within the procedure, not to acts already formed to be acquired into the process. The necessity for translation arises only when the foreign-language document is of concrete relevance to the facts to be proven, with the burden on the interested party to demonstrate the usefulness and potential prejudice of not translating the document.
+
+In this case, the Supreme Court of Cassation ruled on the appeal against the use of evidence obtained through an EIO directed to French authorities for chat data from the Sky ECC network, involved in a narcotics trafficking investigation. The court found the appeal unfounded, emphasizing the adherence to the principles of mutual recognition, proportionality, and fundamental rights protection in the execution of the EIO and the acquisition of digital evidence.

@@ -1,0 +1,14 @@
+Norm 1: Italian Criminal Procedure Code (C.P.P.), Article 458
+Description 1: This norm specifies that for the ordinary process, the Judge of Preliminary Investigations (G.I.P.) is the competent authority to decide on abbreviated trials following an immediate trial decree. The factual element under consideration is whether this norm also applies to minors, determining if the G.I.P. or the Juvenile Court Judge (G.U.P.) should preside over abbreviated trials for minors initiated after an immediate trial decree.
+
+Norm 2: Presidential Decree 448/1988, Articles 26 and 27
+Description 2: These articles establish that the G.I.P. can conclude proceedings with a judgment in cases favorable to the minor, such as declaring no grounds to proceed due to the minor's lack of accountability or the irrelevance of the fact. The factual element here is the differentiation between decisions that can lead to a minor's acquittal and those that can result in a conviction, highlighting the role of the G.I.P. in the former.
+
+Norm 3: Legislative Decree 272/1989, Article 27
+Description 3: This norm emphasizes the role of the Juvenile Court (G.U.P.), particularly in decisions regarding the suspension of proceedings and probation of minors, underscoring the importance of a collegiate body that includes lay experts for such determinations. The factual element revolves around the legislative intent to involve experts in the juvenile justice process, especially in decisions affecting the minor's rehabilitation and social reintegration.
+
+Norm 4: Italian Constitution, Article 31
+Description 4: This article underlines the state's duty to support and protect minors, guiding the legislative framework for juvenile justice. The factual element concerns the overarching principle that the juvenile justice system should prioritize the minor's educational needs and psychological development, influencing the procedural norms applicable to minors.
+
+Norm 5: Italian Criminal Procedure Code (C.P.P.), Article 33 quinquies
+Description 5: This norm addresses the consequences of non-compliance with regulations regarding the collegial or monocratic composition of the judiciary, clarifying that such non-compliance does not necessarily result in absolute nullity of the proceedings. The factual element in question is the appellate court's decision to annul a judgment due to perceived functional incompetence, which the Supreme Court of Cassation challenges, emphasizing the distinction between absolute nullity and procedural errors.

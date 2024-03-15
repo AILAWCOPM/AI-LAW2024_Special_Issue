@@ -1,0 +1,14 @@
+Norm 1: D.Lgs. 21 June 2017, n. 108
+Description 1: This legislative decree transposes the European Parliament and Council Directive 41/2014/EU of 3 April 2014 concerning the European Investigation Order (EIO) in criminal matters. It aims to create a comprehensive system for obtaining evidence in cross-border cases based on the principle of mutual recognition of judicial decisions on evidence gathering. The decree outlines the procedures for recognizing and executing an EIO by the requested state, ensuring the respect of fundamental rights and the principle of proportionality in its execution.
+
+Norm 2: Art. 125 c.p.p., comma 3
+Description 2: This norm establishes that decrees are null if they lack motivation in cases prescribed by law. It underscores the importance of a reasoned decision by the judicial authority, especially in the context of recognizing and executing an EIO, to ensure the legality and legitimacy of cross-border judicial cooperation.
+
+Norm 3: Art. 10 D.Lgs. 21 June 2017, n. 108
+Description 3: This article specifies the conditions under which the recognition and execution of an EIO can be refused. It includes situations such as lack of legitimacy of the issuing authority, incompleteness of the order, incorrect information, or the requested act not corresponding to the type of evidence sought. This provision ensures that the execution of an EIO respects the legal standards and procedural rights of the involved parties.
+
+Norm 4: Art. 4 D.Lgs. 21 June 2017, n. 108
+Description 4: This article details the process for the issuance of a motivated decree by the Prosecutor's Office for the recognition of an EIO, emphasizing the need for a formal and substantiated decision. It also outlines the requirements for communicating the decree to the defense, enabling them to challenge the recognition or execution of the EIO effectively.
+
+Norm 5: Art. 13 D.Lgs. 21 June 2017, n. 108
+Description 5: This norm provides the legal framework for opposing the recognition or execution of an EIO. It allows the interested parties to challenge the decree of recognition through an opposition procedure directed at the preliminary investigation judge (G.i.p.), ensuring a mechanism for judicial review and protection of the rights of the parties involved.

@@ -1,0 +1,10 @@
+Norm 1: Directive 2010/64/EU of the European Parliament and of the Council of 20 October 2010 on the right to interpretation and translation in criminal proceedings.
+Description 1: This directive ensures the right to interpretation and translation for individuals accused or suspected of a criminal offense within the European Union, aiming to strengthen procedural rights and ensure a fair trial. It mandates that essential documents in criminal proceedings be translated for those who do not understand the language of the procedure, to guarantee their right to defense and the fairness of the proceedings.
+
+Norm 2: European Convention on Human Rights (ECHR), Article 6.
+Description 2: Article 6 of the ECHR, as interpreted by the European Court of Human Rights, establishes the right to a fair trial, which includes the right for the accused to understand and be understood in judicial proceedings. This right is foundational for ensuring that the accused can effectively participate in their defense.
+
+Norm 3: German Code of Criminal Procedure (Strafprozessordnung - StPO), §§ 407 and following.
+Description 3: The StPO provisions allow for the issuance of a "Strafbefehl" (penal order) as a simplified procedure without a trial for certain offenses. This penal order can impose sanctions and becomes final if not contested within a specific timeframe. The accused has the right to challenge the penal order, which then necessitates a full trial.
+
+In the case at hand, the Advocate General suggests that a "Strafbefehl" issued against an individual who does not understand German constitutes an "essential document" under Directive 2010/64/EU. Therefore, it must be translated to ensure the individual's right to a fair trial and effective defense. This interpretation aims to align the procedural safeguards with the principles of the ECHR and the specific procedural context of the German criminal justice system as outlined in the StPO.

@@ -1,0 +1,13 @@
+Norm 1: D.Lgs. 21 giugno 2017, n. 108, art. 4, comma 4
+Description 1: This legal norm mandates that the decree recognizing a European Investigation Order (EIO) must be communicated to the defense at the time of or immediately after the execution of investigative acts. In the case at hand, the decree was communicated to the defendant's lawyer only after the execution of search and seizure operations, thus violating the norm and infringing on the right to defense.
+
+Norm 2: D.Lgs. 21 giugno 2017, n. 108, art. 13
+Description 2: This norm allows for opposition to the decree recognizing an EIO to be presented directly to the Judge for Preliminary Investigations (G.i.p.) within a specific timeframe. The failure to communicate the decree in a timely manner prevented the defendant and their lawyer from exercising this right, leading to a violation of the right to defense as outlined in the case.
+
+Norm 3: Directive 2014/41/EU of the European Parliament and of the Council of 3 April 2014, art. 14, paragraph 4
+Description 3: The directive establishes that the terms for appealing decisions related to EIOs must be applied by Member States in a way that ensures the effective exercise of the right to appeal for the parties involved. The late communication of the decree in the case contradicts this directive, as it hindered the defendant's ability to effectively challenge the EIO.
+
+Norm 4: D.Lgs. 21 giugno 2017, n. 108, art. 10
+Description 4: This norm outlines the conditions under which the recognition and execution of an EIO can be refused by the executing authority, including situations where executing the order would violate the fundamental rights of the individuals involved. The case highlights a scenario where the procedural rights of the defendant, specifically the right to a timely defense, were compromised due to late communication of the decree.
+
+The Supreme Court of Cassation in Italy, in its decision, emphasized the importance of respecting the defendant's right to defense by ensuring timely communication of decrees recognizing EIOs, as mandated by the legislative decree and the European directive. The failure to do so in this case led to the annulment of the decree recognizing the EIO, underscoring the judiciary's role in safeguarding fundamental rights within the framework of international judicial cooperation.
